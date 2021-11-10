@@ -1,6 +1,7 @@
 # NLP-RE
 
 Regular expressions or RegEx is a sequence of characters mainly used to find or replace patterns embedded in the text. Let’s consider this example: Suppose we have a list of friends-
+
 https://cdn.analyticsvidhya.com/wp-content/uploads/2021/03/Screenshot-from-2021-03-01-15-28-47.png![image](https://user-images.githubusercontent.com/88656750/141123185-85c55a63-fa41-4298-8820-58efcab3dca3.png)
 
 Regular Expressions example
